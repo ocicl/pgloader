@@ -4,6 +4,6 @@ Migrate to PostgreSQL in a single command!
 
 |---------+--------------------------------------------------------------------------|
 | source  | file:https://github.com/dimitri/pgloader/archive/refs/tags/v3.6.9.tar.gz |
-| commit  | 3.6.9                                                                    |
+| version | 3.6.9                                                                    |
 | systems | pgloader                                                                 |
 |---------+--------------------------------------------------------------------------|
