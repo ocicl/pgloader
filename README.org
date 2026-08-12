@@ -7,4 +7,4 @@ Migrate to PostgreSQL in a single command!
 | version | 3.6.9                                                                    |
 | systems | pgloader                                                                 |
 |---------+--------------------------------------------------------------------------|
- 
+  
